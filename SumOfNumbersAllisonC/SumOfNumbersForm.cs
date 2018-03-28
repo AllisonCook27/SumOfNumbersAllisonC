@@ -42,7 +42,7 @@ namespace SumOfNumbersAllisonC
             lstnumbers.Items.Clear();
 
             //set answer
-            sumAnswer = 1;
+            sumAnswer = 0;
 
             //looping through to calculate the answer and adding to list
             for (sumCounter = 1; sumCounter <= sumNumber; sumCounter++)
