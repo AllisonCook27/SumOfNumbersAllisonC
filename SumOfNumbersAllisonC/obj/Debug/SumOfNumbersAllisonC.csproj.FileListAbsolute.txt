@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\SumOfNumbersAllisonC\SumOfNumbersAllisonC\bin\Debug\SumOfNumbersAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\SumOfNumbersAllisonC\SumOfNumbersAllisonC\bin\Debug\SumOfNumbersAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\SumOfNumbersAllisonC\SumOfNumbersAllisonC\bin\Debug\SumOfNumbersAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\SumOfNumbersAllisonC\SumOfNumbersAllisonC\obj\Debug\SumOfNumbersAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\SumOfNumbersAllisonC\SumOfNumbersAllisonC\obj\Debug\SumOfNumbersAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\SumOfNumbersAllisonC\SumOfNumbersAllisonC\obj\Debug\SumOfNumbersAllisonC.frmSumOfNumbers.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\SumOfNumbersAllisonC\SumOfNumbersAllisonC\obj\Debug\SumOfNumbersAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\SumOfNumbersAllisonC\SumOfNumbersAllisonC\obj\Debug\SumOfNumbersAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\SumOfNumbersAllisonC\SumOfNumbersAllisonC\obj\Debug\SumOfNumbersAllisonC.pdb
